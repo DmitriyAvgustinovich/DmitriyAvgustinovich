@@ -1,11 +1,11 @@
 ![alt text](https://github.com/DmitriyAvgustinovich/DmitriyAvgustinovich/blob/main/bg-for-github.png)
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://t.me/dmitryavgn">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="mailto:dmitryavgst@gmail.comL">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -49,6 +49,8 @@ I'm a Frontend Developerr <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 <div>
 <img alt="git" src="https://camo.githubusercontent.com/da8c0ced2086a91061c20c127d023fc8bd2d9352a2da4cf44658bde05dea0c8c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d4630353033332e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d666666" data-canonical-src="https://img.shields.io/badge/git-F05033.svg?&amp;style=for-the-badge&amp;logo=git&amp;logoColor=fff" style="max-width: 100%;">
+
+<img alt="photoshop" src="https://camo.githubusercontent.com/a535468c6d449b5c89ff6a05c5934f23ac753d2401dd0f7a59ff82a2f4da449a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70686f746f73686f702d3331413846462e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d61646f62652d70686f746f73686f70266c6f676f436f6c6f723d666666" data-canonical-src="https://img.shields.io/badge/photoshop-31A8FF.svg?&amp;style=for-the-badge&amp;logo=adobe-photoshop&amp;logoColor=fff" style="max-width: 100%;">
 </div>
 
 <hr>
