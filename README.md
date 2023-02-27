@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://i.yapx.ru/VncIY.png"/>
-</div>
+![alt text](https://i.yapx.ru/VncIY.png)
 
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
