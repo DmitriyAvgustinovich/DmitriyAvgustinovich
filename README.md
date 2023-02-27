@@ -1,4 +1,4 @@
-![alt text](https://i.yapx.ru/VncIY.png)
+![alt text](https://github.com/DmitriyAvgustinovich/DmitriyAvgustinovich/blob/main/bg-for-github.png)
 
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
