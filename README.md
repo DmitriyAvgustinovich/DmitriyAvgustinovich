@@ -4,7 +4,7 @@
   <a href="https://t.me/dmitryavgn">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-    <a href="https://w-hatsapp.ru/goto/https://wa.me/79824130331">
+    <a href="https://wa.me/79824130331">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
   <a href="mailto:dmitryavgst@gmail.com">
