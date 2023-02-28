@@ -25,7 +25,7 @@
 
 ### :man_technologist: About Me :
 
-I'm a Frontend Developerr <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I'm Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :round_pushpin: I’m From Russian Federation (Surgut).
 
